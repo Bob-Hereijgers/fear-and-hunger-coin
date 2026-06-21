@@ -1,18 +1,18 @@
 {
   "id": "fear-and-hunger-coin",
   "title": "Fear & Hunger Coin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
   },
   "authors": [
     {
-      "name": "Your Name",
+      "name": "Bob Hereijgers",
       "url": "https://github.com/Bob-Hereijgers"
     }
   ],
-  "esmodules": ["scripts/main.js"],
+  "esmodules": ["scripts/diceset.js"],
   "styles": [],
   "relationships": {
     "requires": [
@@ -26,6 +26,6 @@
     ]
   },
   "manifest": "https://raw.githubusercontent.com/Bob-Hereijgers/fear-and-hunger-coin/main/fear-and-hunger-coin/module.json",
-  "download": "https://github.com/Bob-Hereijgers/fear-and-hunger-coin/releases/download/v1.0.1/fear-and-hunger-coin.zip",
+  "download": "https://github.com/Bob-Hereijgers/fear-and-hunger-coin/releases/download/v1.0.2/fear-and-hunger-coin.zip",
   "url": "https://github.com/Bob-Hereijgers/fear-and-hunger-coin"
 }
