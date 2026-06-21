@@ -1,7 +1,7 @@
 {
   "title": "Fear & Hunger Coin",
   "description": "Adds a fear &amp; hunger face option to Dice So Nice",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "scripts": [
     "diceset.js"
   ],
@@ -11,12 +11,14 @@
       {
         "id": "dice-so-nice",
         "type": "module",
-        "compatibility": {}
+        "compatibility": {
+          "minimum": "4.7.0"
+        }
       }
     ]
   },
   "compatibility": {
     "minimum": "0.7.2",
-    "verified": "12"
+    "verified": "14"
   }
 }
