@@ -1,0 +1,21 @@
+{
+  "id": "fear-and-hunger-coin",
+  "title": "Fear & Hunger Coin",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "esmodules": ["scripts/main.js"],
+  "relationships": {
+    "requires": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {
+          "minimum": "4.7.0"
+        }
+      }
+    ]
+  }
+}
